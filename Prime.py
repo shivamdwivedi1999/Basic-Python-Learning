@@ -1,3 +1,7 @@
+# natural numbers that are divisible by only 1 and the number itself. 
+
+
+
 A=int(input("enter the no  : "))
 
 if A>1:
